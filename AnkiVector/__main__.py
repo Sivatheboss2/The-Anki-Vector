@@ -81,7 +81,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Anki Vector To Youre Group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕ Add Anki Vector To Youre Group ➕", url="t.me/Group_management_superbot?startgroup=true"
         ),
     ],
 ]
@@ -106,7 +106,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Damantha Jasinghe](t.me/Damantha_Jasinghe)"""
+Support them  [Damantha Jasinghe](t.me/Sivatheboss)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
